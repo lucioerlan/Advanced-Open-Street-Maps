@@ -22,7 +22,7 @@
     "ip": "^1.1.5",
     "js-yaml": "^3.3.0",
     "moment-timezone": "^0.5.32",
-    "mongoose": "^5.12.7",
+    "mongoose": "^6.13.6",
     "mongoose-seed": "^0.6.0",
     "mongoose-unique-validator": "^2.0.3",
     "ms": "^2.1.3",
